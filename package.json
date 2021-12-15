@@ -1,6 +1,6 @@
 {
   "name": "codemirror",
-  "version": "5.61.1-wingify",
+  "version": "5.61.2-wingify",
   "main": "lib/codemirror.js",
   "style": "lib/codemirror.css",
   "author": {
